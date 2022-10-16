@@ -55,16 +55,16 @@ This repo has divided into one main categories that covers:-<br>
 |2. **[variables_datatypes.cpp:](Learning/variables_datatypes.cpp)**| Program to understand the concepts of variables and datatypes in C++.|
 |3. **[user_input.cpp:](Learning/user_input.cpp)**| Program to understand the concept of taking input from the user in C++.|
 |4. **[if_else.cpp:](Learning/if_else.cpp)**| Program to understand the concept of if else in C++.|
-|4. **[switch_case.cpp:](Learning/switch_case.cpp)**| Program to understand the concept of switch case in C++.|
-|4. **[loops.cpp:](Learning/loops.cpp)**| Program to understand the concept of loops in C++.|
-|4. **[functions.cpp:](Learning/functions.cpp)**| Program to understand the concept of functions in C++.|
-|4. **[arrays.cpp:](Learning/arrays.cpp)**| Program to understand the concept of arrays in C++.|
-|4. **[typecasting.cpp:](Learning/typecasting.cpp)**| Program to understand the concept of typecasting in C++.|
-|4. **[strings.cpp:](Learning/strings.cpp)**| Program to understand the concept of strings in C++.|
-|4. **[pointers.cpp:](Learning/pointers.cpp)**| Program to understand the concept of pointers in C++.|
-|4. **[class_object.cpp:](Learning/class_object.cpp)**| Program to understand the concept of classes and objects in C++.|
-|4. **[constructor.cpp:](Learning/constructor.cpp)**| Program to understand the concept of classes and constructors in C++.|
-|4. **[private_access_specifier.cpp:](Learning/private_access_specifier.cpp)**| Program to understand the concept of classes and Private access specifier in C++.|
-|4. **[inheritance.cpp:](Learning/inheritance.cpp)**| Program to understand the concept of classes and Inheritance in C++.|
+|5. **[switch_case.cpp:](Learning/switch_case.cpp)**| Program to understand the concept of switch case in C++.|
+|6. **[loops.cpp:](Learning/loops.cpp)**| Program to understand the concept of loops in C++.|
+|7. **[functions.cpp:](Learning/functions.cpp)**| Program to understand the concept of functions in C++.|
+|8. **[arrays.cpp:](Learning/arrays.cpp)**| Program to understand the concept of arrays in C++.|
+|9. **[typecasting.cpp:](Learning/typecasting.cpp)**| Program to understand the concept of typecasting in C++.|
+|10. **[strings.cpp:](Learning/strings.cpp)**| Program to understand the concept of strings in C++.|
+|11. **[pointers.cpp:](Learning/pointers.cpp)**| Program to understand the concept of pointers in C++.|
+|12. **[class_object.cpp:](Learning/class_object.cpp)**| Program to understand the concept of classes and objects in C++.|
+|13. **[constructor.cpp:](Learning/constructor.cpp)**| Program to understand the concept of classes and constructors in C++.|
+|14. **[private_access_specifier.cpp:](Learning/private_access_specifier.cpp)**| Program to understand the concept of classes and Private access specifier in C++.|
+|15. **[inheritance.cpp:](Learning/inheritance.cpp)**| Program to understand the concept of classes and Inheritance in C++.|
 <br>
 
