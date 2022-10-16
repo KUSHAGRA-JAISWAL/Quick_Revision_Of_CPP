@@ -41,7 +41,7 @@ This repo has divided into one main categories that covers:-<br>
 
  ## ⭐Run<img src="https://i.imgur.com/ZTeqcGO.gif" height=35px>
 
-<img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( program_name.exe ):&nbsp;&nbsp;&nbsp;<b> Writting this at the location where your program is compiled, it will run your C program.
+<img src="https://i.imgur.com/aLhRk4Z.gif" height=12px>&nbsp;&nbsp;<b>( program_name.exe ):&nbsp;&nbsp;&nbsp;<b> Writting this at the location where your program is compiled, it will run your C++ program.
 
 <img src="https://i.imgur.com/wZ2fx8S.gif" height=4px width=100%>
 
